@@ -17,6 +17,7 @@
 16. Oglądanie gore na EZ
 17. spanie w lesie/ w urbex
 18. prhh xloozylizgli FdF
+
 ---- -_- ------
 jakiś losowy popularnonaukowy artykuł
 https://my.clevelandclinic.org/health/symptoms/24531-third-degree-burn
