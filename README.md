@@ -16,7 +16,7 @@
 15. Waterboarding
 16. Oglądanie gore na EZ
 17. spanie w lesie/ w urbex
-18. patrz! mogę edytować listę! - dr. Bright
+18. prhh xloozylizgli FdF
 ---- -_- ------
 jakiś losowy popularnonaukowy artykuł
 https://my.clevelandclinic.org/health/symptoms/24531-third-degree-burn
@@ -26,6 +26,15 @@ https://my.clevelandclinic.org/health/symptoms/24531-third-degree-burn
 trza ogarnąć jak leczyć poparzenia 3ciego stopnia bo taki jest kurde cel. a najlepiej było by się nie pojawiać z tym na sorze xD.
 
 problem nr 2, zazwyczaj dookoła oparzeń 3ciego stopnia masz te niższe któe już bolą jak chuj. -> rozwiązanie, odjebać nie jedną kropkę ale na przykłąd mały kwadrat nwm 2x2.
+About auto-merge
+
+If you enable auto-merge for a pull request, the pull request will merge automatically when all required reviews are met and all required status checks have passed. Auto-merge helps you avoid waiting around for requirements to be met, so you can move on to other tasks.
+
+Before you can use auto-merge with a pull request, auto-merge must be enabled for the repository. For more information, see Managing auto-merge for pull requests in your repository.
+
+After you enable auto-merge for a pull request, if someone who does not have write permissions to the repository pushes new changes to the head branch or switches the base branch of the pull request, auto-merge will be disabled. For example, if a maintainer enables auto-merge for a pull request from a fork, auto-merge will be disabled after a contributor pushes new changes to the pull request.
+
+You can provide feedback about auto-merge through a GitHub Community discussion.
 
 CO Z TYM ZROBIĆ
 https://www.webmd.com/pain-management/pain-caused-by-burns
@@ -42,3 +51,10 @@ co do efektów, po prostu tam gdzie będzie blizna po tym mogę nie mieć czucia
 
 lista.txt
 Wyświetlam lista.txt.
+
+
+
+
+
+
+atbash18
