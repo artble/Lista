@@ -16,6 +16,7 @@
 15. Waterboarding
 16. Oglądanie gore na EZ
 17. spanie w lesie/ w urbex
+18. patrz! mogę edytować listę! - dr. Bright
 ---- -_- ------
 jakiś losowy popularnonaukowy artykuł
 https://my.clevelandclinic.org/health/symptoms/24531-third-degree-burn
