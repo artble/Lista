@@ -17,6 +17,8 @@
 16. Oglądanie gore na EZ
 17. spanie w lesie/ w urbex
 18. prhh xloozylizgli FdF
+19. mentos + papryczka
+20. chaos na serwerze amp mc
 
 ---- -_- ------
 jakiś losowy popularnonaukowy artykuł
